@@ -1,0 +1,71 @@
+local;type;surface;nb_piece;prix
+Marsa;Appartement;120;2;"1 500 TND
+					"
+Kram;Appartement;80;1;"1 000 TND
+					"
+Kram;Appartement;120;2;"1 200 TND
+					"
+Kram;Appartement;150;2;"1 700 TND
+					"
+Marsa;Appartement;170;1;"4 300 TND
+					"
+Marsa;Appartement;200;2;"10 000 TND
+					"
+Kram;Appartement;180;3;"2 100 TND
+					"
+Marsa;Appartement;300;3;"3 200 TND
+					"
+Ville;Appartement;170;4;"1 650 TND
+					"
+Ville;Appartement;96;1;"1 100 TND
+					"
+Marsa;Appartement;170;3;"1 700 TND
+					"
+Ville;Appartement;150;3;"1 500 TND
+					"
+Tantana;Appartement;100;2;"1 450 TND
+					"
+Marsa;Appartement;2;2;"1 800 TND
+					"
+Marsa;Appartement;130;2;"1 300 TND
+					"
+Marsa;Appartement;120;2;"3 000 TND
+					"
+Soukra;Appartement;150;2;"1 350 TND
+					"
+Sousse;Appartement;200;3;"850 TND
+					"
+Marsa;Appartement;110;2;"1 650 TND
+					"
+Tunis;Appartement;160;3;"1 300 TND
+					"
+Ville;Appartement;120;4;"1 600 TND
+					"
+Hammamet;Appartement;88;1;"1 100 TND
+					"
+Marsa;Appartement;250;4;"4 800 TND
+					"
+Sousse;Appartement;1;1;"
+	    					Prix à consulter
+	    				
+					"
+Marsa;Appartement;120;2;"1 200 TND
+					"
+Corniche;Appartement;220;3;"
+	    					Prix à consulter
+	    				
+					"
+Ennasr;Appartement;160;4;"1 700 TND
+					"
+Marsa;Appartement;125;2;"2 500 TND
+					"
+Soukra;Appartement;65;1;"1 000 TND
+					"
+Aouina;Appartement;90;1;"1 400 TND
+					"
+Ville;Appartement;2;2;"1 500 TND
+					"
+Ville;Appartement;120;4;"700 TND
+					"
+Marsa;Appartement;200;3;"3 500 TND
+					"

@@ -1,0 +1,71 @@
+local;type;surface;nb_piece;prix
+Ville;Appartement;60;2;"900 TND
+					"
+Marsa;Appartement;100;2;"2 600 TND
+					"
+Marsa;Appartement;185;3;"2 500 TND
+					"
+Marsa;Appartement;180;3;"4 650 TND
+					"
+Marsa;Appartement;60;1;"1 700 TND
+					"
+Kram;Appartement;1;1;"1 800 TND
+					"
+Nabeul;Appartement;60;1;"500 TND
+					"
+Mourouj;Appartement;75;2;"
+	    					Prix à consulter
+	    				
+					"
+Hammamet;Appartement;90;1;"
+	    					Prix à consulter
+	    				
+					"
+Stade;Appartement;4;4;"2 200 TND
+					"
+Marsa;Appartement;150;4;"4 000 TND
+					"
+Marsa;Appartement;120;2;"3 000 TND
+					"
+Akouda;Appartement;200;3;"1 300 TND
+					"
+Menzah;Appartement;380;5;"5 500 TND
+					"
+Marsa;Appartement;120;2;"2 500 TND
+					"
+Marsa;Appartement;75;1;"2 200 TND
+					"
+Hammamet;Appartement;130;2;"1 200 TND
+					"
+Marsa;Appartement;70;1;"1 100 TND
+					"
+Jaouhara;Appartement;190;4;"900 TND
+					"
+Marsa;Appartement;300;3;"2 500 TND
+					"
+Hammamet;Appartement;120;3;"1 500 TND
+					"
+Marsa;Appartement;300;3;"5 700 TND
+					"
+Carthage;Appartement;180;3;"2 500 TND
+					"
+Marsa;Appartement;3;3;"3 500 TND
+					"
+Marsa;Appartement;180;3;"2 500 TND
+					"
+Marsa;Appartement;140;4;"1 700 TND
+					"
+Marsa;Appartement;120;2;"2 000 TND
+					"
+Marsa;Appartement;2;2;"2 650 TND
+					"
+Hergla;Appartement;96;3;"1 300 TND
+					"
+Marsa;Appartement;140;3;"1 500 TND
+					"
+Marsa;Appartement;150;2;"4 500 TND
+					"
+Kram;Appartement;2;2;"1 800 TND
+					"
+Marsa;Appartement;3;3;"2 800 TND
+					"
